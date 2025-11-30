@@ -48,3 +48,18 @@ Invalid mobile numbers, duplicate records, and missing values were removed durin
 - An end-to-end Python pipeline for RFM analysis, including data cleaning, invoice aggregation, scoring, and customer segmentation.  
 - A final RFM output file and an executive summary outlining key insights and recommended strategic actions.  
 - A Power BI dashboard providing an interactive view of customer segments, RFM distributions, and segment-level performance.
+
+## Visual Overview
+
+### Customer Count by Segment
+
+![Customer Count by RFM Segment](images/segment_counts_improved.png)
+
+### Recency Distribution
+
+![Distribution of Recency](images/recency_improved.png)
+
+### Frequency vs Monetary by Segment
+
+![Frequency vs Monetary by Segment](images/freq_monetary_improved.png)
+
