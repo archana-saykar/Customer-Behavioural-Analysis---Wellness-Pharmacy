@@ -53,13 +53,13 @@ Invalid mobile numbers, duplicate records, and missing values were removed durin
 
 ### Customer Count by Segment
 
-![Customer Count by RFM Segment](images/segment_counts_improved.png)
+![Customer Count by RFM Segment](images/segment_counts.png)
 
 ### Recency Distribution
 
-![Distribution of Recency](images/recency_improved.png)
+![Distribution of Recency](images/recency.png)
 
 ### Frequency vs Monetary by Segment
 
-![Frequency vs Monetary by Segment](images/freq_monetary_improved.png)
+![Frequency vs Monetary by Segment](images/freq_monetary.png)
 
